@@ -14,13 +14,13 @@
 
 ### 🧑‍💻 About me
 
-Backend engineer with **5+ years at VASS** building financial systems where latency, reliability and correctness matter. I work across **trading platforms, real-time market data and system integrations**, connecting systems like Bloomberg, ION, Tradeweb and Murex.
+Backend engineer with 5+ years of experience building financial systems where latency, reliability and correctness matter. I work across trading platforms, real-time market data and system integrations, connecting systems like Bloomberg, ION, Tradeweb and Murex.x.
 
 I enjoy building reliable backend systems and turning data from external providers into something useful. I'm now looking to bring that experience to a **product team**.
 
 ---
 
-### 💼 What I do at VASS
+### 💼 Professional highlights
 
 | | |
 |---|---|

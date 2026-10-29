@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About me
 
-Backend engineer with **5+ years at VASS** building financial systems where latency, reliability and correctness matter. I work across **trading platforms, real-time market data and FIX integrations**, connecting systems like Bloomberg, ION, Tradeweb and Murex.
+Backend engineer with **5+ years at VASS** building financial systems where latency, reliability and correctness matter. I work across **trading platforms, real-time market data and system integrations**, connecting systems like Bloomberg, ION, Tradeweb and Murex.
 
 I enjoy building reliable backend systems and turning data from external providers into something useful. I'm now looking to bring that experience to a **product team**.
 
@@ -24,8 +24,8 @@ I enjoy building reliable backend systems and turning data from external provide
 
 | | |
 |---|---|
-| 🔌 **FIX integration layer** | Architected and deployed a high-performance layer between trading systems (Bloomberg, ION, Tradeweb) and Murex audit tools, **+40% audit data consistency** and streamlined compliance reporting |
-| 📈 **Algorithmic trading** | Design and optimize trading strategies fed by **real-time vendor streams over Kafka**, cutting execution latency with multi-threading |
+| 🔌 **Trading integration layer** | Architected and deployed a high-performance layer between trading systems (Bloomberg, ION, Tradeweb) and Murex audit tools, **+40% audit data consistency** and streamlined compliance reporting |
+| 📈 **Algorithmic trading** | Design and optimize trading strategies fed by **real-time vendor data streams**, cutting execution latency with multi-threading |
 | ⚙️ **Microservices at scale** | Built and scaled **10+ Java/Spring microservices** processing real-time market data via WebSockets, with low latency and high availability |
 | 🤖 **Automation** | Developed **5+ Python bots** for daily client checks, removing **15+ hours/week** of manual work and reducing operational risk |
 
@@ -92,7 +92,6 @@ I enjoy building reliable backend systems and turning data from external provide
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 **Infrastructure & tools**<br/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
@@ -101,7 +100,6 @@ I enjoy building reliable backend systems and turning data from external provide
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 **Financial domain**<br/>
-<img src="https://img.shields.io/badge/FIX_Protocol-1F2937?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Low_latency-1F2937?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Market_data-1F2937?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Bloomberg_·_ION_·_Tradeweb_·_Murex-1F2937?style=for-the-badge"/>
